@@ -1,0 +1,17 @@
+{
+  "appUpdate": {
+    "versionCode": 241,
+    "versionName": "2.40.68",
+    "apkUrl": "https://github.com/karaokemo/Karaoke-data-file/releases/download/2.40.68/Karaoke_mo_2.40.67orig.apk",
+    "changelog": "Karaoke_mo version 2.40.68",
+    "forceUpdate": false
+  },
+  "files": [
+    {
+      "folder": "Karaoke_mo",
+      "fileName": "SongHub_HomeScreen_Replacement.zip",
+      "url": "https://raw.githubusercontent.com/karaokemo/karaoke_mo/main/SongHub_HomeScreen_Replacement.zip",
+      "size": 0
+    }
+  ]
+}
