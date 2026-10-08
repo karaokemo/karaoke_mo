@@ -1,10 +1,10 @@
 {
   "appUpdate": {
-    "versionCode": 241,
-    "versionName": "2.40.68",
+    "versionCode": 242,
+    "versionName": "2.42.0",
     "apkUrl": "https://github.com/karaokemo/karaoke_mo/releases/download/2.42.0/Karaoke_mo_signed.apk",
     "changelog": "Karaoke_mo version 2.42.0",
-    "forceUpdate": false
+    "forceUpdate": true
   },
   "files": [
     {
